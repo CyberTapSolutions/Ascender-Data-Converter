@@ -1,0 +1,4 @@
+transaction_id,department,amount,transaction_date
+3001,Technology,1200.50,2023-07-01
+3002,Cafeteria,785.20,2023-07-02
+3003,Transportation,2200.00,2023-07-05

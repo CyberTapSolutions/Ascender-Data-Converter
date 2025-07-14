@@ -1,0 +1,94 @@
+2025-07-14 11:32:13,177 - INFO - ETL process started.
+2025-07-14 11:32:13,177 - INFO - Processing file: ../data/students.csv for table: students
+2025-07-14 11:32:13,208 - WARNING - No data found in ../data/students.csv, skipping...
+2025-07-14 11:32:13,208 - INFO - Processing file: ../data/staff.csv for table: staff
+2025-07-14 11:32:13,208 - WARNING - No data found in ../data/staff.csv, skipping...
+2025-07-14 11:32:13,208 - INFO - Processing file: ../data/finance.csv for table: finance
+2025-07-14 11:32:13,208 - WARNING - No data found in ../data/finance.csv, skipping...
+2025-07-14 11:32:13,208 - INFO - ETL process completed.
+2025-07-14 11:33:05,328 - INFO - ETL process started.
+2025-07-14 11:33:05,329 - INFO - Processing file: ../data/students.csv for table: students
+2025-07-14 11:33:05,332 - WARNING - No data found in ../data/students.csv, skipping...
+2025-07-14 11:33:05,332 - INFO - Processing file: ../data/staff.csv for table: staff
+2025-07-14 11:33:05,333 - WARNING - No data found in ../data/staff.csv, skipping...
+2025-07-14 11:33:05,333 - INFO - Processing file: ../data/finance.csv for table: finance
+2025-07-14 11:33:05,333 - WARNING - No data found in ../data/finance.csv, skipping...
+2025-07-14 11:33:05,333 - INFO - ETL process completed.
+2025-07-14 11:33:14,520 - INFO - ETL process started.
+2025-07-14 11:33:14,520 - INFO - Processing file: ../data/students.csv for table: students
+2025-07-14 11:33:14,523 - WARNING - No data found in ../data/students.csv, skipping...
+2025-07-14 11:33:14,523 - INFO - Processing file: ../data/staff.csv for table: staff
+2025-07-14 11:33:14,523 - WARNING - No data found in ../data/staff.csv, skipping...
+2025-07-14 11:33:14,523 - INFO - Processing file: ../data/finance.csv for table: finance
+2025-07-14 11:33:14,523 - WARNING - No data found in ../data/finance.csv, skipping...
+2025-07-14 11:33:14,523 - INFO - ETL process completed.
+2025-07-14 11:34:28,559 - INFO - ETL process started.
+2025-07-14 11:34:28,559 - INFO - Processing file: data/students.csv for table: students
+2025-07-14 11:34:28,566 - INFO - Data extracted from data/students.csv with 3 records.
+2025-07-14 11:34:28,566 - INFO - Data transformed for table: students
+2025-07-14 11:34:28,585 - INFO - Data loaded into table: students
+2025-07-14 11:34:28,585 - INFO - Processing file: data/staff.csv for table: staff
+2025-07-14 11:34:28,586 - INFO - Data extracted from data/staff.csv with 3 records.
+2025-07-14 11:34:28,586 - INFO - Data transformed for table: staff
+2025-07-14 11:34:28,586 - INFO - Data loaded into table: staff
+2025-07-14 11:34:28,586 - INFO - Processing file: data/finance.csv for table: finance
+2025-07-14 11:34:28,586 - INFO - Data extracted from data/finance.csv with 3 records.
+2025-07-14 11:34:28,587 - INFO - Data transformed for table: finance
+2025-07-14 11:34:28,587 - INFO - Data loaded into table: finance
+2025-07-14 11:34:28,587 - INFO - ETL process completed.
+2025-07-14 11:35:26,358 - INFO - ETL process started.
+2025-07-14 11:35:26,358 - INFO - Processing file: data/students.csv for table: students
+2025-07-14 11:35:26,364 - INFO - Data extracted from data/students.csv with 3 records.
+2025-07-14 11:35:26,365 - INFO - Data transformed for table: students
+2025-07-14 11:35:26,807 - INFO - Data loaded into table: students
+2025-07-14 11:35:26,807 - INFO - Processing file: data/staff.csv for table: staff
+2025-07-14 11:35:26,810 - INFO - Data extracted from data/staff.csv with 3 records.
+2025-07-14 11:35:26,810 - INFO - Data transformed for table: staff
+2025-07-14 11:35:26,828 - INFO - Data loaded into table: staff
+2025-07-14 11:35:26,828 - INFO - Processing file: data/finance.csv for table: finance
+2025-07-14 11:35:26,830 - INFO - Data extracted from data/finance.csv with 3 records.
+2025-07-14 11:35:26,831 - INFO - Data transformed for table: finance
+2025-07-14 11:35:26,846 - INFO - Data loaded into table: finance
+2025-07-14 11:35:26,846 - INFO - ETL process completed.
+2025-07-14 11:36:27,042 - INFO - ETL process started.
+2025-07-14 11:36:27,042 - INFO - Processing file: data/students.csv for table: students
+2025-07-14 11:36:27,049 - INFO - Data extracted from data/students.csv with 3 records.
+2025-07-14 11:36:27,049 - INFO - Data transformed for table: students
+2025-07-14 11:36:27,131 - INFO - Data loaded into table: students
+2025-07-14 11:36:27,131 - INFO - Processing file: data/staff.csv for table: staff
+2025-07-14 11:36:27,132 - INFO - Data extracted from data/staff.csv with 3 records.
+2025-07-14 11:36:27,132 - INFO - Data transformed for table: staff
+2025-07-14 11:36:27,142 - INFO - Data loaded into table: staff
+2025-07-14 11:36:27,142 - INFO - Processing file: data/finance.csv for table: finance
+2025-07-14 11:36:27,143 - INFO - Data extracted from data/finance.csv with 3 records.
+2025-07-14 11:36:27,143 - INFO - Data transformed for table: finance
+2025-07-14 11:36:27,153 - INFO - Data loaded into table: finance
+2025-07-14 11:36:27,153 - INFO - ETL process completed.
+2025-07-14 11:37:23,783 - INFO - ETL process started.
+2025-07-14 11:37:23,783 - INFO - Processing file: data/students.csv for table: students
+2025-07-14 11:37:23,790 - INFO - Data extracted from data/students.csv with 3 records.
+2025-07-14 11:37:23,790 - INFO - Data transformed for table: students
+2025-07-14 11:37:23,944 - INFO - Data loaded into table: students
+2025-07-14 11:37:23,944 - INFO - Processing file: data/staff.csv for table: staff
+2025-07-14 11:37:23,946 - INFO - Data extracted from data/staff.csv with 3 records.
+2025-07-14 11:37:23,946 - INFO - Data transformed for table: staff
+2025-07-14 11:37:23,965 - INFO - Data loaded into table: staff
+2025-07-14 11:37:23,965 - INFO - Processing file: data/finance.csv for table: finance
+2025-07-14 11:37:23,966 - INFO - Data extracted from data/finance.csv with 3 records.
+2025-07-14 11:37:23,966 - INFO - Data transformed for table: finance
+2025-07-14 11:37:23,982 - INFO - Data loaded into table: finance
+2025-07-14 11:37:23,982 - INFO - ETL process completed.
+2025-07-14 11:40:02,741 - INFO - ETL process started.
+2025-07-14 11:40:02,741 - INFO - Processing file: data/students.csv for table: students
+2025-07-14 11:40:02,748 - INFO - Data extracted from data/students.csv with 3 records.
+2025-07-14 11:40:02,748 - INFO - Data transformed for table: students
+2025-07-14 11:40:03,002 - INFO - Data loaded into table: students
+2025-07-14 11:40:03,002 - INFO - Processing file: data/staff.csv for table: staff
+2025-07-14 11:40:03,003 - INFO - Data extracted from data/staff.csv with 3 records.
+2025-07-14 11:40:03,004 - INFO - Data transformed for table: staff
+2025-07-14 11:40:03,044 - INFO - Data loaded into table: staff
+2025-07-14 11:40:03,044 - INFO - Processing file: data/finance.csv for table: finance
+2025-07-14 11:40:03,045 - INFO - Data extracted from data/finance.csv with 3 records.
+2025-07-14 11:40:03,045 - INFO - Data transformed for table: finance
+2025-07-14 11:40:03,081 - INFO - Data loaded into table: finance
+2025-07-14 11:40:03,081 - INFO - ETL process completed.
